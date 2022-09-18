@@ -1,0 +1,14 @@
+aws-cdk.aws-s3
+aws_cdk.aws_kinesisfirehose
+aws_cdk.aws_kinesisfirehose_destinations
+aws-cdk.aws-lambda
+aws-cdk.aws_kinesis
+aws-cdk.aws_lambda
+aws-cdk.core
+aws-cdk.aws_stepfunctions
+aws-cdk.aws_stepfunctions_tasks
+aws_cdk.aws_glue
+aws_cdk.aws_iam 
+aws_cdk.aws_s3_deployment 
+
+# pip install -r requirements.txt
